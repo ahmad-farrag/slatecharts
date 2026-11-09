@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SlateCharts Lite",
+	"Description": "Free, minimal native Slate/UMG chart widget: bar, line and pie charts with hover readouts. The full SlateCharts plugin on Fab adds about 30 chart types, themes, data zoom, drill-down, JSON input and touch/gamepad support.",
+	"Category": "UI",
+	"CreatedBy": "Ahmed Farrag",
+	"CreatedByURL": "https://ahmedfarrag.me",
+	"DocsURL": "https://ahmad-farrag.github.io/SlateCharts/",
+	"MarketplaceURL": "",
+	"SupportURL": "https://ahmad-farrag.github.io/SlateCharts/support",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SlateChartsLite",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
