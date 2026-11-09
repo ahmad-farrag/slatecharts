@@ -6,7 +6,7 @@ title: SlateCharts Lite
 
 SlateCharts Lite is a free, minimal chart widget for UMG: one widget that draws a bar, line or pie chart in Slate, with a hover readout and a short grow-in animation. It is MIT-licensed, so you can read it, change it and ship it.
 
-Source: [`Lite/SlateChartsLite`](https://github.com/ahmad-farrag/SlateCharts/tree/main/Lite/SlateChartsLite)
+Source: [`Lite/SlateChartsLite`](https://github.com/ahmad-farrag/slatecharts/tree/main/Lite/SlateChartsLite)
 
 ## Install
 

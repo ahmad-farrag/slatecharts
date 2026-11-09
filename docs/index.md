@@ -40,7 +40,7 @@ SlateCharts is an Unreal Engine plugin with about 30 chart widgets for UMG, draw
 | Showcase level | No | Yes |
 | License | MIT | Fab Standard License |
 
-The Lite source is in this repository under [`Lite/`](https://github.com/ahmad-farrag/SlateCharts/tree/main/Lite). The full plugin is sold on Fab.
+The Lite source is in this repository under [`Lite/`](https://github.com/ahmad-farrag/slatecharts/tree/main/Lite). The full plugin is sold on Fab.
 
 ## More screenshots
 

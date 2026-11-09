@@ -6,7 +6,7 @@ title: Support
 
 ## Questions and bug reports
 
-Open an issue on GitHub: [github.com/ahmad-farrag/SlateCharts/issues](https://github.com/ahmad-farrag/SlateCharts/issues)
+Open an issue on GitHub: [github.com/ahmad-farrag/slatecharts/issues](https://github.com/ahmad-farrag/slatecharts/issues)
 
 Please include:
 
