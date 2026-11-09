@@ -1,3 +1,5 @@
+<img src="docs/images/icon.png" alt="SlateCharts icon" width="128" align="right">
+
 # SlateCharts
 
 Native Slate and UMG charts for Unreal Engine. No web browser, no JavaScript, no CEF.

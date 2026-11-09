@@ -2,6 +2,8 @@
 title: SlateCharts
 ---
 
+<img src="images/icon.png" alt="SlateCharts icon" width="128" align="right">
+
 # SlateCharts documentation
 
 SlateCharts is an Unreal Engine plugin with about 30 chart widgets for UMG, drawn natively in Slate. It has no web browser, no JavaScript and no CEF, so the charts work in packaged games and cost little to draw.
