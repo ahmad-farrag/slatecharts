@@ -8,7 +8,7 @@ Native Slate and UMG charts for Unreal Engine. No web browser, no JavaScript, no
 
 This repository has:
 
-- **[Documentation](https://ahmad-farrag.github.io/SlateCharts/)** for SlateCharts, the full plugin sold on Fab (about 30 chart widgets, themes, data zoom, drill-down, JSON input, touch, keyboard and gamepad support).
+- **[Documentation](https://docs.aetherpixels.com/)** for SlateCharts, the full plugin sold on Fab (about 30 chart widgets, themes, data zoom, drill-down, JSON input, touch, keyboard and gamepad support).
 - **[SlateCharts Lite](Lite/SlateChartsLite)**, a free, MIT-licensed plugin with one widget that draws bar, line and pie charts. Use it, learn from it, or try the idea before buying the full version.
 
 ## SlateCharts Lite quick start
@@ -17,7 +17,7 @@ This repository has:
 2. In a Widget Blueprint, drag **Slate Lite Chart** from the Palette (category **SlateCharts Lite**).
 3. Set **Chart Type**, **Title**, **Categories** and **Series** in the Details panel, or call **Set Data** at runtime.
 
-Details: [SlateCharts Lite docs](https://ahmad-farrag.github.io/SlateCharts/lite).
+Details: [SlateCharts Lite docs](https://docs.aetherpixels.com/lite).
 
 ## Lite or full?
 
@@ -34,7 +34,7 @@ Details: [SlateCharts Lite docs](https://ahmad-farrag.github.io/SlateCharts/lite
 
 ## Support
 
-Questions and bug reports: [open an issue](https://github.com/ahmad-farrag/SlateCharts/issues). More on the [support page](https://ahmad-farrag.github.io/SlateCharts/support).
+Questions and bug reports: [open an issue](https://github.com/ahmad-farrag/SlateCharts/issues). More on the [support page](https://docs.aetherpixels.com/support).
 
 ## License
 
