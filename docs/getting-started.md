@@ -10,7 +10,7 @@ title: Getting started
 
 **Into a project:** copy the `SlateCharts` folder into your project's `Plugins/` folder (create it if needed), then reopen the project. A C++ project rebuilds the plugin; a Blueprint-only project needs the engine-installed version from Fab.
 
-SlateCharts targets Unreal Engine 5.8.
+SlateCharts supports Unreal Engine 5.5 and 5.8 on Windows. Fab installs the version that matches your engine.
 
 ## Add a chart
 
