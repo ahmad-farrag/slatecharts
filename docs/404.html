@@ -1,0 +1,17 @@
+---
+title: Page not found
+permalink: /404.html
+---
+<script>
+  // Old or mistyped addresses (capitals, a trailing slash) go to the page they meant.
+  (function () {
+    var p = location.pathname;
+    var n = p.toLowerCase();
+    if (n.split("/").filter(Boolean).length > 1) { n = n.replace(/\/+$/, ""); }
+    if (n !== p) { location.replace(n + location.search + location.hash); }
+  })();
+</script>
+
+# Page not found
+
+That page isn't here. Try the [SlateCharts documentation](/slatecharts/), [Getting started](/slatecharts/getting-started) or [Support](/slatecharts/support).
